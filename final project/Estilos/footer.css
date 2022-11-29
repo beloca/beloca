@@ -1,0 +1,24 @@
+/* FOOTER */
+.footer{
+    display:flex;
+    justify-content: space-between rgba (grey);
+    align-items: center;
+    background-color: rgb(30, 30, 30);
+    height: 160px;  
+}
+.footer-btn {
+    font-weight: bold;
+    display: flex;
+    width:100%;
+    margin-top: -6em;
+}
+.btn{
+    background-color: grey;
+    font-weight: bold;
+    font-size: 1em;
+    padding: 20px;
+    color: white;
+    border: 0.5px solid whitesmoke;
+    width: 100%;
+    
+}
